@@ -11,7 +11,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-Installer Python
+Node.js 18 est nécessaire pour exécuter le projet.
 
 ```
 
